@@ -10,3 +10,68 @@ Tudo relacionado aos estudos e projetos de UX Design
 ## Links interessantes para organizar:
 
 vazio ;)
+
+
+## Tarefas para pesquisar/ estudar
+
+> Design Centrado no Usuário e Design Thinking
+- Design Thinking: O que é, como funciona
+- Briefing do Projeto
+
+> User Research
+- Como montar plano de pesquisa
+- Técnicas de Pesquisa
+  > Metodologias
+  - Prototipação
+  - Benchmark
+  - Cocriação interna
+  - Teste de usabilidade presencial
+  - Personas
+  - Jornada do Consumidor
+  - Heurísticas
+  - Design Sprint
+  - Entrevista de Porfundidade
+  - Pesquisa Online
+  - Teste A/B
+  - Teste de Usabilidade Remoto
+  - Card Sorting
+  - Co-criação Externa
+  - Análise de Dados (BI)
+  - Focus Group
+  - Blueprint
+  - Etnografia
+  - Eye Tracking
+  - Diário de Uso Continuado
+- Como montar um relatório de Pesquisa
+
+- Mapas de Empatia
+- Cenário & Esboços Sequenciais (Storyboards)
+- Jobs-to-be-Done
+
+- Metodologias de Desenvolvimento e Users Stories
+  - Waterfal x Agile
+  - Scrum, Kanban, Lean 
+  - O que é MVP
+  - User Stories
+  
+- Estratégia de Conteúdo
+  - Como montar Estratégia de Conteúdo
+  - Arquitetura de Informação
+  - Fluxos de Usuário
+  
+- Esboços, Wireframes & Protótipos
+
+- Visual Design
+  - Color Theory
+  - Tipografia e User Experience
+  - Guia de Estilo, Sistema de Design e Pattern Libraries
+  - Marcas
+  - Acessibilidade
+  - Contraste
+  - Ferramentas
+  - Inspirações
+  
+- Teste de Usabilidade
+  - Teste de Usabilidade
+  - Teste de Melhoría Contínua
+  
