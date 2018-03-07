@@ -12,6 +12,8 @@ Tudo relacionado aos estudos e projetos de UX Design
 -Guide to User Research (UXR):
 http://guidetouxr.com/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BoGD6c4rDTo62VTIhUxhb4w%3D%3D
 
+-Great UI/UX Animations:
+https://fromupnorth.com/great-ui-ux-animations-3e9a0baa336f
 
 ## Tarefas para pesquisar/ estudar
 
