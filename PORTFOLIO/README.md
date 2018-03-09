@@ -27,6 +27,7 @@
 - https://medium.theuxblog.com/the-very-first-fake-project-part-2-e591e132f9fa
 - https://medium.theuxblog.com/my-ux-roadmap-aba140fae83
 - https://therectangles.com/page/
+- https://medium.com/@HichamMoutahir/why-having-a-ui-ux-workflow-is-awesome-and-how-to-build-your-own-874749912d29
 
 
 
