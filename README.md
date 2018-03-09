@@ -15,6 +15,9 @@ http://guidetouxr.com/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BoGD6c4rDTo62VTI
 -Great UI/UX Animations:
 https://fromupnorth.com/great-ui-ux-animations-3e9a0baa336f
 
+-UX Project CheckList:
+https://uxchecklist.github.io/
+
 ## Tarefas para pesquisar/ estudar
 
 > Design Centrado no Usuário e Design Thinking
