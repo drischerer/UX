@@ -23,7 +23,10 @@
 - https://uxstudioteam.com/ux-blog/ux-design-process-steps/
 - https://uxdesign.cc/essential-questions-to-ask-when-starting-a-ux-design-project-1d2d8ee69ef4
 - https://blog.usejournal.com/ux-design-process-85d79bdb9eeb
-
+- https://medium.theuxblog.com/the-very-first-fake-ux-project-part-1-2ed7961adc99
+- https://medium.theuxblog.com/the-very-first-fake-project-part-2-e591e132f9fa
+- https://medium.theuxblog.com/my-ux-roadmap-aba140fae83
+- https://therectangles.com/page/
 
 
 
