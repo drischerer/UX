@@ -1,7 +1,7 @@
 ## Dicas de User Flow
 -https://www.smashingmagazine.com/2012/01/stop-designing-pages-start-designing-flows/
 
-#-EXIBIR MÍDIA
+# -EXIBIR MÍDIA #
 Com a exibição de publicidade, tudo começa com o banner. O design do banner precisa alcançar um objetivo precioso: obter um clique da pessoa certa. Aqui estão algumas questões-chave a serem respondidas ao projetar os anúncios que representam a parte frontal do seu fluxo de usuários:
 
 -Qual tipo de usuário estou segmentando?
