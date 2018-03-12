@@ -1,3 +1,5 @@
-## Dicas incomuns para Brainstorming
+## Dicas para Brainstorming
 
-- 1. Ficar em pé nos encontros : Ajuda as ideias fluiresm de forma livre evitando que evitem canalizar as inspirações.Incentiva a criatividade de forma que a pessoa continue a conversa como bate-papo.
+## Dicas para Moad Board
+
+- https://uxplanet.org/creating-better-moodboards-for-ux-projects-381d4d6daf70
