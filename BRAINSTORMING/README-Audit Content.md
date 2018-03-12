@@ -1,4 +1,4 @@
-## Dicas de Taxonomia
+## Dicas de Audit   Content com Taxonomia
 - http://uxmag.com/articles/from-content-audit-to-design-insight
 - Taxonomia - Ao ato de nomear as coisas e pô-las em ordem estabelecida e padronizada, dá-se o nome de taxonomia. Segue uma ordem pré-estabelecida e lógica, fruto de estudos e observações sobre as coisas, os animais, os planetas, o que for o objeto de classificação.Taxonomia em um projeto é uma melhor navegação, correção de conceitos mal entendidos e para uma melhor organização, ou seja, taxonomia passa a ser um potente mecanismo de organização de informação e classificação de grupos hierárquicos.
 - Folksonomia - Também conhecida como “tag” (rótulo, em inglês), as palavras-chave são associadas ao objeto de classificação e compartilhada com os outros indivíduos. Dessa forma torna-se mais fácil a associação tanto individualmente quanto no coletivo.
