@@ -17,4 +17,7 @@ https://theuxreview.co.uk/google-analytics-the-beginners-guide/
 - http://uxmyths.com/post/831431504/myth-22-usability-testing-is-expensive > tipos de testes baratos
 
 ## Teste do cartão
-- http://boxesandarrows.com/card-sorting-a-definitive-guide/ > passp a passo do processo, o que, como, qndo fazer
+- http://boxesandarrows.com/card-sorting-a-definitive-guide/ > passo a passo do processo, o que, como, qndo fazer
+
+## Teste A/B
+- https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/ > Guia do Teste - Como criar, O que fazer e o que não fazer, Estudo de Casos, Ferramentas de Teste A/B, Ideias (1001 ideias para teste A/B, Estatísticas do teste
