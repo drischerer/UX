@@ -15,3 +15,6 @@ https://theuxreview.co.uk/google-analytics-the-beginners-guide/
 - https://uxmastery.com/better-user-research-through-surveys/  > com lista de ferramentas de pesquisa
 - https://www.usability.gov/how-to-and-tools/resources/templates.html >Templantes de teste de usabilidade
 - http://uxmyths.com/post/831431504/myth-22-usability-testing-is-expensive > tipos de testes baratos
+
+## Teste do cartão
+- http://boxesandarrows.com/card-sorting-a-definitive-guide/ > passp a passo do processo, o que, como, qndo fazer
