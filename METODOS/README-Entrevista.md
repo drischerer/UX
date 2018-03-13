@@ -13,3 +13,4 @@ https://theuxreview.co.uk/google-analytics-the-beginners-guide/
 ## Cheat Sheet
 - http://boxesandarrows.com/a-stakeholder-interview-checklist/
 - https://uxmastery.com/better-user-research-through-surveys/  > com lista de ferramentas de pesquisa
+- https://www.usability.gov/how-to-and-tools/resources/templates.html >Templantes de teste de usabilidade
