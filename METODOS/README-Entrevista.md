@@ -14,3 +14,4 @@ https://theuxreview.co.uk/google-analytics-the-beginners-guide/
 - http://boxesandarrows.com/a-stakeholder-interview-checklist/
 - https://uxmastery.com/better-user-research-through-surveys/  > com lista de ferramentas de pesquisa
 - https://www.usability.gov/how-to-and-tools/resources/templates.html >Templantes de teste de usabilidade
+- http://uxmyths.com/post/831431504/myth-22-usability-testing-is-expensive > tipos de testes baratos
