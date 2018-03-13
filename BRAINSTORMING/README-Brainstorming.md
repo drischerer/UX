@@ -1,2 +1,0 @@
-## Dicas para Brainstorming
-
