@@ -21,6 +21,8 @@ https://uxchecklist.github.io/
 -Princípios de UX para Apss de Dispositivos Móveis
 https://www.thinkwithgoogle.com/intl/pt-br/marketing-resources/ux-e-design/mobile-app-ux-principles/
 
+- Como fazer formulário Amigável: https://blog.prototypr.io/creating-user-friendly-forms-46e3f7f4eef2
+
 ## Tarefas para pesquisar/ estudar
 
 > Design Centrado no Usuário e Design Thinking
