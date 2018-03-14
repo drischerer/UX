@@ -21,3 +21,7 @@ https://theuxreview.co.uk/google-analytics-the-beginners-guide/
 
 ## Teste A/B
 - https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/ > Guia do Teste - Como criar, O que fazer e o que não fazer, Estudo de Casos, Ferramentas de Teste A/B, Ideias (1001 ideias para teste A/B, Estatísticas do teste
+
+- Não termine o teste muito cedo! 
+Para testes A / B de anúncios do AdWords, use https://www.perrymarshall.com/splittester/ , garantindo que você verifique os resultados apenas quando o teste for executado por uma duração prévia.
+Para testes usando software de teste multivariante, use a calculadora de significância estatística incorporada do software.
