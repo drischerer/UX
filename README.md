@@ -25,6 +25,8 @@ https://www.thinkwithgoogle.com/intl/pt-br/marketing-resources/ux-e-design/mobil
 
 - Site Free para adicionar notas em Grupo (Tipo "Invision" de post-it) http://www.protonotes.com/test-protonotes-out.html
 
+- Métodos de UX: https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d
+
 ## Tarefas para pesquisar/ estudar
 
 > Design Centrado no Usuário e Design Thinking
