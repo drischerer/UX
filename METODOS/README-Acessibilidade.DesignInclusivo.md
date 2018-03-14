@@ -8,3 +8,6 @@
 
 - Técnicas de acessibilidade:
  http://www.design-ecommerce.com/Web-Accessibility-Techniques.html
+
+-Blog de Design Inclusivo:
+https://boagworld.com/category/accessibility/
