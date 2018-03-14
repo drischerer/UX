@@ -1,0 +1,4 @@
+## Links Úteis
+
+- Recomendações de acessibilidade:
+ http://emag.governoeletronico.gov.br/cursoconteudista/desenvolvimento-web/recomendacoes-de-acessibilidade-wcag2.htm
