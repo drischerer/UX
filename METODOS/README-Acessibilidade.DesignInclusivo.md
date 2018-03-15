@@ -11,3 +11,5 @@
 
 -Blog de Design Inclusivo:
 https://boagworld.com/category/accessibility/
+
+- https://www.washington.edu/doit/
