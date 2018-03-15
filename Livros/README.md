@@ -5,3 +5,6 @@
 - Don´t make me think - Steve Krug
 # 
 - Lean UX
+
+# Value: Understanding user needs
+- Observing the User Experience - Elizabeth Goodman, Mike K e Andrea M. > No magic solutions; UX Research Methods
