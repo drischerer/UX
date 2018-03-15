@@ -7,4 +7,4 @@
 - Lean UX
 
 # Value: Understanding user needs
-- Observing the User Experience - Elizabeth Goodman, Mike K e Andrea M. > No magic solutions; UX Research Methods
+- Observing the User Experience - Elizabeth Goodman, Mike Kuniavsky e Andrea Moed > No magic solutions; UX Research Methods
