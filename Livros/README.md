@@ -3,6 +3,9 @@
 - Design do dia a dia - Don Norman > Estágios de Ação, gulfs of execution, e avaliação; Princípisos para suporte de Descoberta
 - Desing with Mind in Mind - Jeff Johnson > Princípios da psicologia humana; Design do's & don'ts
 - Don´t make me think - Steve Krug
+
+# Teste
+- Rubin and Chisnell, Handbook of Usability Testing, 2ed. Wiley. 2008. > Teste de Usabilidade
 # 
 - Lean UX
 
