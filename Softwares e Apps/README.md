@@ -11,3 +11,6 @@
 - RelativeWave's Form
 - Fluid
 -Notism
+
+## Plataforma para teste de usabilidade
+- https://www.techsmith.com/morae.html
