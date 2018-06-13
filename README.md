@@ -9,6 +9,9 @@ Tudo relacionado aos estudos e projetos de UX Design
 
 ## Links interessantes para organizar:
 
+-Checjlist para USABILIDADE:
+https://ux.sapo.pt/checklists/usabilidade/
+
 -Guide to User Research (UXR):
 http://guidetouxr.com/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BoGD6c4rDTo62VTIhUxhb4w%3D%3D
 
